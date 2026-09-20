@@ -1,0 +1,305 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-20T14:24:31.969Z",
+  "generatedAtEpochMs": 1789914271969,
+  "generator": {
+    "name": "Code Janitor",
+    "feature": "workspace-memory"
+  },
+  "handoffGuidance": [
+    "Read graphify-out/GRAPH_REPORT.md first for architecture and dependency questions.",
+    "Use workspace.json for machine-readable repo context before scanning broad parts of the repository.",
+    "Use graphify-out/WORKSPACE_MEMORY.md and workspacememory.md for human-readable handoff notes, recent changes, and Git-aware status."
+  ],
+  "workspace": {
+    "name": "ml-learning-journey",
+    "root": "d:\\ml-learning-journey\\ml-learning-journey",
+    "activeFile": "05_project/heart.ipynb",
+    "refreshReason": "tracked-change",
+    "outputFiles": {
+      "markdown": "graphify-out/WORKSPACE_MEMORY.md",
+      "markdownMirror": "workspacememory.md",
+      "structuredManifest": "workspace.json"
+    },
+    "suggestedStartingPoints": [
+      "05_project/heart.ipynb",
+      "workspace.json",
+      "workspacememory.md",
+      "README.md"
+    ],
+    "stats": {
+      "totalFiles": 23,
+      "topLevelAreas": [
+        {
+          "name": "03_LinearRegression",
+          "count": 13
+        },
+        {
+          "name": "[root]",
+          "count": 3
+        },
+        {
+          "name": "01_foundation",
+          "count": 2
+        },
+        {
+          "name": "04_classificationRegression",
+          "count": 2
+        },
+        {
+          "name": "05_project",
+          "count": 2
+        },
+        {
+          "name": "02_basicOnly",
+          "count": 1
+        }
+      ],
+      "primaryFileTypes": [
+        {
+          "name": ".ipynb",
+          "count": 12
+        },
+        {
+          "name": ".csv",
+          "count": 8
+        },
+        {
+          "name": ".json",
+          "count": 1
+        },
+        {
+          "name": ".md",
+          "count": 1
+        },
+        {
+          "name": "[no extension]",
+          "count": 1
+        }
+      ],
+      "keyFiles": [
+        "README.md"
+      ],
+      "fileInventory": [
+        {
+          "path": ".gitattributes",
+          "topLevelArea": "[root]",
+          "extension": "[no extension]",
+          "isKeyFile": false
+        },
+        {
+          "path": "01_foundation/01_project.ipynb",
+          "topLevelArea": "01_foundation",
+          "extension": ".ipynb",
+          "isKeyFile": false
+        },
+        {
+          "path": "01_foundation/raw_data/insurance.csv",
+          "topLevelArea": "01_foundation",
+          "extension": ".csv",
+          "isKeyFile": false
+        },
+        {
+          "path": "02_basicOnly/static.ipynb",
+          "topLevelArea": "02_basicOnly",
+          "extension": ".ipynb",
+          "isKeyFile": false
+        },
+        {
+          "path": "03_LinearRegression/amesHousePrice.ipynb",
+          "topLevelArea": "03_LinearRegression",
+          "extension": ".ipynb",
+          "isKeyFile": false
+        },
+        {
+          "path": "03_LinearRegression/carPricePredict.ipynb",
+          "topLevelArea": "03_LinearRegression",
+          "extension": ".ipynb",
+          "isKeyFile": false
+        },
+        {
+          "path": "03_LinearRegression/coustumerSpending.ipynb",
+          "topLevelArea": "03_LinearRegression",
+          "extension": ".ipynb",
+          "isKeyFile": false
+        },
+        {
+          "path": "03_LinearRegression/housePricePediction.ipynb",
+          "topLevelArea": "03_LinearRegression",
+          "extension": ".ipynb",
+          "isKeyFile": false
+        },
+        {
+          "path": "03_LinearRegression/insuranceLR.ipynb",
+          "topLevelArea": "03_LinearRegression",
+          "extension": ".ipynb",
+          "isKeyFile": false
+        },
+        {
+          "path": "03_LinearRegression/laptopPrice.ipynb",
+          "topLevelArea": "03_LinearRegression",
+          "extension": ".ipynb",
+          "isKeyFile": false
+        },
+        {
+          "path": "03_LinearRegression/lassoRegression.ipynb",
+          "topLevelArea": "03_LinearRegression",
+          "extension": ".ipynb",
+          "isKeyFile": false
+        },
+        {
+          "path": "03_LinearRegression/raw_data/ames_house.csv",
+          "topLevelArea": "03_LinearRegression",
+          "extension": ".csv",
+          "isKeyFile": false
+        },
+        {
+          "path": "03_LinearRegression/raw_data/Ecommerce.csv",
+          "topLevelArea": "03_LinearRegression",
+          "extension": ".csv",
+          "isKeyFile": false
+        },
+        {
+          "path": "03_LinearRegression/raw_data/ford.csv",
+          "topLevelArea": "03_LinearRegression",
+          "extension": ".csv",
+          "isKeyFile": false
+        },
+        {
+          "path": "03_LinearRegression/raw_data/house_price.csv",
+          "topLevelArea": "03_LinearRegression",
+          "extension": ".csv",
+          "isKeyFile": false
+        },
+        {
+          "path": "03_LinearRegression/raw_data/insurance.csv",
+          "topLevelArea": "03_LinearRegression",
+          "extension": ".csv",
+          "isKeyFile": false
+        },
+        {
+          "path": "03_LinearRegression/raw_data/Laptop_price.csv",
+          "topLevelArea": "03_LinearRegression",
+          "extension": ".csv",
+          "isKeyFile": false
+        },
+        {
+          "path": "04_classificationRegression/KNNRegression/titanic.ipynb",
+          "topLevelArea": "04_classificationRegression",
+          "extension": ".ipynb",
+          "isKeyFile": false
+        },
+        {
+          "path": "04_classificationRegression/logisticRegression/titanic.ipynb",
+          "topLevelArea": "04_classificationRegression",
+          "extension": ".ipynb",
+          "isKeyFile": false
+        },
+        {
+          "path": "05_project/heart.ipynb",
+          "topLevelArea": "05_project",
+          "extension": ".ipynb",
+          "isKeyFile": false
+        },
+        {
+          "path": "05_project/raw_data/heart.csv",
+          "topLevelArea": "05_project",
+          "extension": ".csv",
+          "isKeyFile": false
+        },
+        {
+          "path": "README.md",
+          "topLevelArea": "[root]",
+          "extension": ".md",
+          "isKeyFile": true
+        },
+        {
+          "path": "workspace.json",
+          "topLevelArea": "[root]",
+          "extension": ".json",
+          "isKeyFile": false
+        }
+      ]
+    }
+  },
+  "package": {
+    "available": false,
+    "error": "package.json was not found."
+  },
+  "currentStack": {
+    "lastActivityAt": "2026-09-20T14:24:30.058Z",
+    "trackedChangeCount": 2,
+    "trackedFileSnapshotCount": 0,
+    "changeTypeCounts": {
+      "save": 0,
+      "create": 0,
+      "delete": 2,
+      "rename": 0
+    }
+  },
+  "trackedSnapshots": [],
+  "recentChanges": [
+    {
+      "type": "delete",
+      "path": "workspacememory.md",
+      "toPath": "",
+      "summary": "Deleted file.",
+      "recordedAt": "2026-09-20T14:24:30.058Z",
+      "recordedAtEpochMs": 1789914270058,
+      "before": null,
+      "after": null,
+      "diff": null
+    },
+    {
+      "type": "delete",
+      "path": "workspace.json",
+      "toPath": "",
+      "summary": "Deleted file.",
+      "recordedAt": "2026-09-20T14:24:26.314Z",
+      "recordedAtEpochMs": 1789914266314,
+      "before": null,
+      "after": null,
+      "diff": null
+    }
+  ],
+  "hotFiles": [
+    {
+      "filePath": "workspace.json",
+      "count": 1
+    },
+    {
+      "filePath": "workspacememory.md",
+      "count": 1
+    }
+  ],
+  "git": {
+    "available": true,
+    "branch": "main",
+    "headSummary": "2026-09-20 768f9bc Implementing KNN",
+    "statusSummary": "3 untrackeds",
+    "changedFileCount": 3,
+    "statusLines": [
+      "?? 05_project/",
+      "?? graphify-out/",
+      "?? workspace.json"
+    ],
+    "error": ""
+  },
+  "github": {
+    "available": true,
+    "summary": "GitHub Repository: hacker-x184/ml-learning-journey\nDescription: Here I learn ML, experiment, make mistakes, and practice algorithms.\nVisibility: public | Default branch: main\nStars: 0 | Forks: 0 | Open issues: 0\n\nLatest commit on main:\n- be82e21 by Mohd Inzamam on 2026-09-20\n  leaning and basic implement of the different models\n\nURL: https://github.com/hacker-x184/ml-learning-journey"
+  },
+  "graphify": {
+    "reportAvailable": false,
+    "graphAvailable": false,
+    "reportPath": "",
+    "graphPath": "",
+    "highlights": ""
+  },
+  "projectPlanner": null,
+  "agentNotes": [
+    "For recent repo changes, check recentChanges, trackedSnapshots, hotFiles, and git.",
+    "For architecture questions, combine graphify highlights with the Graphify report.",
+    "For machine-readable repo context, prefer this workspace.json manifest before broad repo scans."
+  ]
+}
