@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T14:24:31.969Z",
-  "generatedAtEpochMs": 1789914271969,
+  "generatedAt": "2026-09-20T15:04:47.669Z",
+  "generatedAtEpochMs": 1789916687669,
   "generator": {
     "name": "Code Janitor",
     "feature": "workspace-memory"
@@ -14,7 +14,7 @@
   "workspace": {
     "name": "ml-learning-journey",
     "root": "d:\\ml-learning-journey\\ml-learning-journey",
-    "activeFile": "05_project/heart.ipynb",
+    "activeFile": ".gitattributes",
     "refreshReason": "tracked-change",
     "outputFiles": {
       "markdown": "graphify-out/WORKSPACE_MEMORY.md",
@@ -22,32 +22,33 @@
       "structuredManifest": "workspace.json"
     },
     "suggestedStartingPoints": [
-      "05_project/heart.ipynb",
+      ".gitattributes",
       "workspace.json",
       "workspacememory.md",
+      "$RY3N4M2.gitattributes",
       "README.md"
     ],
     "stats": {
-      "totalFiles": 23,
+      "totalFiles": 27,
       "topLevelAreas": [
         {
           "name": "03_LinearRegression",
           "count": 13
         },
         {
-          "name": "[root]",
-          "count": 3
-        },
-        {
-          "name": "01_foundation",
-          "count": 2
+          "name": "05_project",
+          "count": 5
         },
         {
           "name": "04_classificationRegression",
+          "count": 4
+        },
+        {
+          "name": "[root]",
           "count": 2
         },
         {
-          "name": "05_project",
+          "name": "01_foundation",
           "count": 2
         },
         {
@@ -58,15 +59,15 @@
       "primaryFileTypes": [
         {
           "name": ".ipynb",
-          "count": 12
+          "count": 14
         },
         {
           "name": ".csv",
           "count": 8
         },
         {
-          "name": ".json",
-          "count": 1
+          "name": ".pkl",
+          "count": 3
         },
         {
           "name": ".md",
@@ -184,6 +185,12 @@
           "isKeyFile": false
         },
         {
+          "path": "04_classificationRegression/KNN/titanic.ipynb",
+          "topLevelArea": "04_classificationRegression",
+          "extension": ".ipynb",
+          "isKeyFile": false
+        },
+        {
           "path": "04_classificationRegression/KNNRegression/titanic.ipynb",
           "topLevelArea": "04_classificationRegression",
           "extension": ".ipynb",
@@ -196,9 +203,27 @@
           "isKeyFile": false
         },
         {
+          "path": "04_classificationRegression/naiveBayesOrDessionTree/titanic.ipynb",
+          "topLevelArea": "04_classificationRegression",
+          "extension": ".ipynb",
+          "isKeyFile": false
+        },
+        {
+          "path": "05_project/columns.pkl",
+          "topLevelArea": "05_project",
+          "extension": ".pkl",
+          "isKeyFile": false
+        },
+        {
           "path": "05_project/heart.ipynb",
           "topLevelArea": "05_project",
           "extension": ".ipynb",
+          "isKeyFile": false
+        },
+        {
+          "path": "05_project/KNN_heart.pkl",
+          "topLevelArea": "05_project",
+          "extension": ".pkl",
           "isKeyFile": false
         },
         {
@@ -208,16 +233,16 @@
           "isKeyFile": false
         },
         {
+          "path": "05_project/scaler.pkl",
+          "topLevelArea": "05_project",
+          "extension": ".pkl",
+          "isKeyFile": false
+        },
+        {
           "path": "README.md",
           "topLevelArea": "[root]",
           "extension": ".md",
           "isKeyFile": true
-        },
-        {
-          "path": "workspace.json",
-          "topLevelArea": "[root]",
-          "extension": ".json",
-          "isKeyFile": false
         }
       ]
     }
@@ -227,25 +252,34 @@
     "error": "package.json was not found."
   },
   "currentStack": {
-    "lastActivityAt": "2026-09-20T14:24:30.058Z",
-    "trackedChangeCount": 2,
-    "trackedFileSnapshotCount": 0,
+    "lastActivityAt": "2026-09-20T15:04:45.802Z",
+    "trackedChangeCount": 28,
+    "trackedFileSnapshotCount": 1,
     "changeTypeCounts": {
       "save": 0,
-      "create": 0,
-      "delete": 2,
-      "rename": 0
+      "create": 1,
+      "delete": 26,
+      "rename": 1
     }
   },
-  "trackedSnapshots": [],
+  "trackedSnapshots": [
+    {
+      "filePath": ".gitattributes",
+      "updatedAt": 1787325805780.511,
+      "lineCount": 3,
+      "charCount": 66,
+      "hash": "ba3dfe345280",
+      "preview": "# Auto detect text files and perform LF normalization / * text=auto"
+    }
+  ],
   "recentChanges": [
     {
       "type": "delete",
       "path": "workspacememory.md",
       "toPath": "",
       "summary": "Deleted file.",
-      "recordedAt": "2026-09-20T14:24:30.058Z",
-      "recordedAtEpochMs": 1789914270058,
+      "recordedAt": "2026-09-20T15:04:45.802Z",
+      "recordedAtEpochMs": 1789916685802,
       "before": null,
       "after": null,
       "diff": null
@@ -255,8 +289,178 @@
       "path": "workspace.json",
       "toPath": "",
       "summary": "Deleted file.",
-      "recordedAt": "2026-09-20T14:24:26.314Z",
-      "recordedAtEpochMs": 1789914266314,
+      "recordedAt": "2026-09-20T15:04:44.373Z",
+      "recordedAtEpochMs": 1789916684373,
+      "before": null,
+      "after": null,
+      "diff": null
+    },
+    {
+      "type": "delete",
+      "path": "workspacememory.md",
+      "toPath": "",
+      "summary": "Deleted file.",
+      "recordedAt": "2026-09-20T15:04:12.308Z",
+      "recordedAtEpochMs": 1789916652308,
+      "before": null,
+      "after": null,
+      "diff": null
+    },
+    {
+      "type": "delete",
+      "path": "workspace.json",
+      "toPath": "",
+      "summary": "Deleted file.",
+      "recordedAt": "2026-09-20T15:04:10.803Z",
+      "recordedAtEpochMs": 1789916650803,
+      "before": null,
+      "after": null,
+      "diff": null
+    },
+    {
+      "type": "delete",
+      "path": "workspace.json",
+      "toPath": "",
+      "summary": "Deleted file.",
+      "recordedAt": "2026-09-20T15:01:57.295Z",
+      "recordedAtEpochMs": 1789916517295,
+      "before": null,
+      "after": null,
+      "diff": null
+    },
+    {
+      "type": "delete",
+      "path": "workspacememory.md",
+      "toPath": "",
+      "summary": "Deleted file.",
+      "recordedAt": "2026-09-20T15:01:56.341Z",
+      "recordedAtEpochMs": 1789916516341,
+      "before": null,
+      "after": null,
+      "diff": null
+    },
+    {
+      "type": "delete",
+      "path": "workspace.json",
+      "toPath": "",
+      "summary": "Deleted file.",
+      "recordedAt": "2026-09-20T15:01:55.730Z",
+      "recordedAtEpochMs": 1789916515730,
+      "before": null,
+      "after": null,
+      "diff": null
+    },
+    {
+      "type": "delete",
+      "path": "workspacememory.md",
+      "toPath": "",
+      "summary": "Deleted file.",
+      "recordedAt": "2026-09-20T15:01:54.206Z",
+      "recordedAtEpochMs": 1789916514206,
+      "before": null,
+      "after": null,
+      "diff": null
+    },
+    {
+      "type": "rename",
+      "path": "$RY3N4M2.gitattributes",
+      "toPath": ".gitattributes",
+      "summary": "Renamed file.",
+      "recordedAt": "2026-09-20T15:01:52.425Z",
+      "recordedAtEpochMs": 1789916512425,
+      "before": {
+        "kind": "text",
+        "lineCount": 3,
+        "charCount": 66,
+        "hash": "ba3dfe345280",
+        "preview": "# Auto detect text files and perform LF normalization / * text=auto",
+        "updatedAt": 1787325805780.511,
+        "extension": ".gitattributes",
+        "sizeBytes": 66
+      },
+      "after": {
+        "kind": "text",
+        "lineCount": 3,
+        "charCount": 66,
+        "hash": "ba3dfe345280",
+        "preview": "# Auto detect text files and perform LF normalization / * text=auto",
+        "updatedAt": 1787325805780.511,
+        "extension": "[no extension]",
+        "sizeBytes": 66
+      },
+      "diff": null
+    },
+    {
+      "type": "create",
+      "path": "$RY3N4M2.gitattributes",
+      "toPath": "",
+      "summary": "Created file.",
+      "recordedAt": "2026-09-20T15:01:44.502Z",
+      "recordedAtEpochMs": 1789916504502,
+      "before": null,
+      "after": {
+        "kind": "text",
+        "lineCount": 3,
+        "charCount": 66,
+        "hash": "ba3dfe345280",
+        "preview": "# Auto detect text files and perform LF normalization / * text=auto",
+        "updatedAt": 1787325805780.511,
+        "extension": ".gitattributes",
+        "sizeBytes": 66
+      },
+      "diff": null
+    },
+    {
+      "type": "delete",
+      "path": ".gitattributes",
+      "toPath": "",
+      "summary": "Deleted file.",
+      "recordedAt": "2026-09-20T15:01:29.834Z",
+      "recordedAtEpochMs": 1789916489834,
+      "before": null,
+      "after": null,
+      "diff": null
+    },
+    {
+      "type": "delete",
+      "path": "workspace.json",
+      "toPath": "",
+      "summary": "Deleted file.",
+      "recordedAt": "2026-09-20T15:01:28.777Z",
+      "recordedAtEpochMs": 1789916488777,
+      "before": null,
+      "after": null,
+      "diff": null
+    },
+    {
+      "type": "delete",
+      "path": "workspacememory.md",
+      "toPath": "",
+      "summary": "Deleted file.",
+      "recordedAt": "2026-09-20T15:01:27.829Z",
+      "recordedAtEpochMs": 1789916487829,
+      "before": null,
+      "after": null,
+      "diff": null
+    },
+    {
+      "type": "delete",
+      "path": "workspace.json",
+      "toPath": "",
+      "summary": "Deleted file.",
+      "recordedAt": "2026-09-20T15:01:27.364Z",
+      "recordedAtEpochMs": 1789916487364,
+      "before": null,
+      "after": null,
+      "diff": null
+    },
+    {
+      "type": "delete",
+      "path": "workspace.json",
+      "toPath": "",
+      "summary": "Deleted file.",
+      "recordedAt": "2026-09-20T15:01:25.585Z",
+      "recordedAtEpochMs": 1789916485585,
       "before": null,
       "after": null,
       "diff": null
@@ -265,29 +469,37 @@
   "hotFiles": [
     {
       "filePath": "workspace.json",
-      "count": 1
+      "count": 13
     },
     {
       "filePath": "workspacememory.md",
+      "count": 12
+    },
+    {
+      "filePath": ".gitattributes",
+      "count": 2
+    },
+    {
+      "filePath": "$RY3N4M2.gitattributes",
       "count": 1
     }
   ],
   "git": {
     "available": true,
     "branch": "main",
-    "headSummary": "2026-09-20 768f9bc Implementing KNN",
-    "statusSummary": "3 untrackeds",
+    "headSummary": "2026-09-20 af17ae9 Merge branch 'main' of https://github.com/hacker-x184/ml-learning-journey",
+    "statusSummary": "3 deleteds",
     "changedFileCount": 3,
     "statusLines": [
-      "?? 05_project/",
-      "?? graphify-out/",
-      "?? workspace.json"
+      "D graphify-out/WORKSPACE_MEMORY.md",
+      "D workspace.json",
+      "D workspacememory.md"
     ],
     "error": ""
   },
   "github": {
     "available": true,
-    "summary": "GitHub Repository: hacker-x184/ml-learning-journey\nDescription: Here I learn ML, experiment, make mistakes, and practice algorithms.\nVisibility: public | Default branch: main\nStars: 0 | Forks: 0 | Open issues: 0\n\nLatest commit on main:\n- be82e21 by Mohd Inzamam on 2026-09-20\n  leaning and basic implement of the different models\n\nURL: https://github.com/hacker-x184/ml-learning-journey"
+    "summary": "GitHub Repository: hacker-x184/ml-learning-journey\nDescription: Here I learn ML, experiment, make mistakes, and practice algorithms.\nVisibility: public | Default branch: main\nStars: 0 | Forks: 0 | Open issues: 0\n\nLatest commit on main:\n- af17ae9 by Mohd Inzamam on 2026-09-20\n  Merge branch 'main' of https://github.com/hacker-x184/ml-learning-journey\n\nURL: https://github.com/hacker-x184/ml-learning-journey"
   },
   "graphify": {
     "reportAvailable": false,

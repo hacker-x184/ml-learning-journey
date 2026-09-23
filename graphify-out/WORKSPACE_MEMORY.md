@@ -1,6 +1,6 @@
 # Workspace Memory
 This file is maintained automatically by Code Janitor so Claude, Codex, Bob, and any other AI agent can reuse repo context without rescanning everything from scratch.
-Generated: 2026-09-20T14:24:31.969Z
+Generated: 2026-09-20T15:04:47.669Z
 Workspace: ml-learning-journey
 Workspace root: d:\ml-learning-journey\ml-learning-journey
 Refresh reason: tracked-change
@@ -16,46 +16,92 @@ Structured manifest: workspace.json
 - Audience: any AI agent working in this repository can treat this file as the current handoff ledger.
 - Graphify report: not available yet
 - Graphify graph: not available yet
-- Last activity: 2026-09-20T14:24:30.058Z
+- Last activity: 2026-09-20T15:04:45.802Z
 ## Workspace Focus
-- Active file in focus: 05_project/heart.ipynb
-- Hottest files right now: workspace.json (1), workspacememory.md (1)
-- Suggested starting points: 05_project/heart.ipynb, workspace.json, workspacememory.md, README.md
+- Active file in focus: .gitattributes
+- Hottest files right now: workspace.json (13), workspacememory.md (12), .gitattributes (2), $RY3N4M2.gitattributes (1)
+- Suggested starting points: .gitattributes, workspace.json, workspacememory.md, $RY3N4M2.gitattributes, README.md
 ## Current Workspace
-- Active file: 05_project/heart.ipynb
-- Tracked files in snapshot: 23
-- Top-level areas: 03_LinearRegression (13), [root] (3), 01_foundation (2), 04_classificationRegression (2), 05_project (2), 02_basicOnly (1)
-- Primary file types: .ipynb (12), .csv (8), .json (1), .md (1), [no extension] (1)
+- Active file: .gitattributes
+- Tracked files in snapshot: 27
+- Top-level areas: 03_LinearRegression (13), 05_project (5), 04_classificationRegression (4), [root] (2), 01_foundation (2), 02_basicOnly (1)
+- Primary file types: .ipynb (14), .csv (8), .pkl (3), .md (1), [no extension] (1)
 - Key files: README.md
 ## Package Snapshot
 - Package metadata unavailable: package.json was not found.
 ## Current Stack
-- Logged change events: 2
-- Change mix: delete (2)
-- Remembered file snapshots: 0
-- Working tree summary: 3 untrackeds
+- Logged change events: 28
+- Change mix: create (1), delete (26), rename (1)
+- Remembered file snapshots: 1
+- Working tree summary: 3 deleteds
 ## Tracked Snapshots
-- No remembered file snapshots yet.
+- .gitattributes | 3 lines | 66 chars | hash ba3dfe345280
+  Last snapshot: 2026-08-21T15:23:25.780Z
+  Preview: "# Auto detect text files and perform LF normalization / * text=auto"
 
 ## Recent Changes
-### 2026-09-20T14:24:30.058Z | deleted | workspacememory.md
+### 2026-09-20T15:04:45.802Z | deleted | workspacememory.md
 - Summary: Deleted file.
 
-### 2026-09-20T14:24:26.314Z | deleted | workspace.json
+### 2026-09-20T15:04:44.373Z | deleted | workspace.json
+- Summary: Deleted file.
+
+### 2026-09-20T15:04:12.308Z | deleted | workspacememory.md
+- Summary: Deleted file.
+
+### 2026-09-20T15:04:10.803Z | deleted | workspace.json
+- Summary: Deleted file.
+
+### 2026-09-20T15:01:57.295Z | deleted | workspace.json
+- Summary: Deleted file.
+
+### 2026-09-20T15:01:56.341Z | deleted | workspacememory.md
+- Summary: Deleted file.
+
+### 2026-09-20T15:01:55.730Z | deleted | workspace.json
+- Summary: Deleted file.
+
+### 2026-09-20T15:01:54.206Z | deleted | workspacememory.md
+- Summary: Deleted file.
+
+### 2026-09-20T15:01:52.425Z | renamed | $RY3N4M2.gitattributes -> .gitattributes
+- Summary: Renamed file.
+- Before: 3 lines | 66 chars | hash ba3dfe345280 | preview: "# Auto detect text files and perform LF normalization / * text=auto"
+- After: 3 lines | 66 chars | hash ba3dfe345280 | preview: "# Auto detect text files and perform LF normalization / * text=auto"
+
+### 2026-09-20T15:01:44.502Z | created | $RY3N4M2.gitattributes
+- Summary: Created file.
+- After: 3 lines | 66 chars | hash ba3dfe345280 | preview: "# Auto detect text files and perform LF normalization / * text=auto"
+
+### 2026-09-20T15:01:29.834Z | deleted | .gitattributes
+- Summary: Deleted file.
+
+### 2026-09-20T15:01:28.777Z | deleted | workspace.json
+- Summary: Deleted file.
+
+### 2026-09-20T15:01:27.829Z | deleted | workspacememory.md
+- Summary: Deleted file.
+
+### 2026-09-20T15:01:27.364Z | deleted | workspace.json
+- Summary: Deleted file.
+
+### 2026-09-20T15:01:25.585Z | deleted | workspace.json
 - Summary: Deleted file.
 
 
 ## Hot Files
-- workspace.json (1 tracked changes)
-- workspacememory.md (1 tracked changes)
+- workspace.json (13 tracked changes)
+- workspacememory.md (12 tracked changes)
+- .gitattributes (2 tracked changes)
+- $RY3N4M2.gitattributes (1 tracked changes)
 
 ## Git Snapshot
 - Branch: main
-- HEAD: 2026-09-20 768f9bc Implementing KNN
-- Working tree summary: 3 untrackeds
-- ?? 05_project/
-- ?? graphify-out/
-- ?? workspace.json
+- HEAD: 2026-09-20 af17ae9 Merge branch 'main' of https://github.com/hacker-x184/ml-learning-journey
+- Working tree summary: 3 deleteds
+- D graphify-out/WORKSPACE_MEMORY.md
+- D workspace.json
+- D workspacememory.md
 
 ## GitHub Snapshot
 GitHub Repository: hacker-x184/ml-learning-journey
@@ -64,8 +110,8 @@ Visibility: public | Default branch: main
 Stars: 0 | Forks: 0 | Open issues: 0
 
 Latest commit on main:
-- be82e21 by Mohd Inzamam on 2026-09-20
-  leaning and basic implement of the different models
+- af17ae9 by Mohd Inzamam on 2026-09-20
+  Merge branch 'main' of https://github.com/hacker-x184/ml-learning-journey
 
 URL: https://github.com/hacker-x184/ml-learning-journey
 
